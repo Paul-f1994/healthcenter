@@ -1,6 +1,3 @@
-Baoluo Feng
-
-USCID£º2328697497
 
 realize all three phase.
 
