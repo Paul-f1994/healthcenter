@@ -1,0 +1,5 @@
+doctor:doctor.o 
+	g++ -o doctor doctor.o
+
+clean:
+	rm -f doctor doctor.o

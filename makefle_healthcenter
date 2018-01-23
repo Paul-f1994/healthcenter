@@ -1,0 +1,5 @@
+healthcenter:healthcenter.o 
+	g++ -o healthcenter healthcenter.o
+
+clean:
+	rm -f healthcenter healthcenter.o

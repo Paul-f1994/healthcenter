@@ -1,0 +1,5 @@
+patient:patient.o 
+	g++ -o patient patient.o
+
+clean:
+	rm -f patient patient.o
